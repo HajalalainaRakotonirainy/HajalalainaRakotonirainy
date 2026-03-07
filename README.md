@@ -69,8 +69,8 @@ I'm a **Full-Stack MERN Developer** specializing in building scalable, productio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HajalalainaRakotonirainy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajalalainaRakotonirainy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-iota-liard-27.vercel.app/api?username=HajalalainaRakotonirainy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-iota-liard-27.vercel.app/api/top-langs/?username=HajalalainaRakotonirainy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
