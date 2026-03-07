@@ -18,7 +18,7 @@ I'm a **Full-Stack MERN Developer** specializing in building scalable, productio
 
 - 🔭 I'm currently working on **Full-Stack Web & Data Engineering projects**
 - 🌱 I'm always learning new technologies and best practices
-- 💬 Ask me about **React.js, Next.js, Node.js, PostgreSQL, GIS Development**
+- 💬 Ask me about **React.js, Next.js, Node.js**
 - 📫 Reach me on **LinkedIn**
 - ⚡ Fun fact: My background in **strategy games** shaped how I approach development — plan carefully, adapt, and always keep the end goal in sight
 
@@ -81,7 +81,7 @@ I'm a **Full-Stack MERN Developer** specializing in building scalable, productio
 
 ## 🚀 Featured Projects
 
-### 🗺️ GIS Web Application — ARTEC
+### 🗺️ GIS Web Application
 > Full-stack Geographic Information System for radio network mapping
 - **Stack:** JavaScript, Node.js, Express.js, PostgreSQL, PostGIS, GeoServer, OpenLayers
 - **Live:** [artec.mg/sig](https://www.artec.mg/sig/)
