@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hajalalaina Rakotonirainy</h1>
-<h3 align="center">Full-Stack JavaScript Developer & Data Engineer | MERN Stack · React.js · Next.js · TypeScript · Node.js</h3>
+<h3 align="center">Full-Stack JavaScript Developer | MERN Stack · React.js · Next.js · TypeScript · Node.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HajalalainaRakotonirainy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -12,20 +12,17 @@
   <a href="https://github.com/HajalalainaRakotonirainy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.artec.mg/sig/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Project-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"/>
-  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack MERN Developer & Data Engineer** based in **Antananarivo, Madagascar**, specializing in building scalable, production-ready web applications. I deliver complete end-to-end solutions — responsive frontends paired with robust backend architectures and RESTful APIs.
+I'm a **Full-Stack MERN Developer** based in **Antananarivo, Madagascar**, specializing in building scalable, production-ready web applications. I deliver complete end-to-end solutions — responsive frontends paired with robust backend architectures and RESTful APIs.
 
-- 🔭 I'm currently working on **Full-Stack Web & Data Engineering projects**
+- 🔭 I'm currently working on **Full-Stack Web projects**
 - 🌱 I'm always learning new technologies and best practices
-- 💬 Ask me about **React.js, Next.js, Node.js, PostgreSQL, GIS Development, ETL Pipelines**
+- 💬 Ask me about **React.js, Next.js, Node.js**
 - 🌍 Open to **freelance missions · full-time roles · remote & hybrid opportunities**
 - 📫 Reach me on **LinkedIn**
 - ⚡ Fun fact: My background in **strategy games** shaped how I approach development — plan carefully, adapt, and always keep the end goal in sight
@@ -53,7 +50,6 @@ I'm a **Full-Stack MERN Developer & Data Engineer** based in **Antananarivo, Mad
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Data Engineering**
