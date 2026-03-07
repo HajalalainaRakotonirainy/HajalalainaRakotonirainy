@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack MERN Developer** based in **Antananarivo, Madagascar**, specializing in building scalable, production-ready web applications. I deliver complete end-to-end solutions — responsive frontends paired with robust backend architectures and RESTful APIs.
+I'm a **Full-Stack MERN Developer** specializing in building scalable, production-ready web applications. I deliver complete end-to-end solutions — responsive frontends paired with robust backend architectures and RESTful APIs.
 
 - 🔭 I'm currently working on **Full-Stack Web projects**
 - 🌱 I'm always learning new technologies and best practices
